@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Maximo</h1>
-<h3 align="center">soy estudiante de Desarrollo en Aplicaciones Web</h3>
+<h3 align="center">Soy estudiante de Desarrollo en Aplicaciones Web</h3>
 
 - 📫 Puedes contactarme a mi mail: **maxivaz55@gmail.com**
 
