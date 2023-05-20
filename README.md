@@ -1,9 +1,7 @@
 <h1 align="center">¡Hola a todos! 👋</h1>
 <h3 align="justify">
 ✔Mi nombre es Maximo Garmasar Vazquez, vivo en Córdoba, Argentina. 
-Soy un estudiante de desarrollo de aplicaciones web. He terminado un curso sobre Java y ahora me encuentro estudiando JS, HTML, CSS, BOOTSTRAP y reactJs.</h3>
-<h3 align="justify">
-✔En este espacio les voy a compartir todos mis proyectos.</h3>
+Soy un estudiante de desarrollo de aplicaciones web. Ahora me encuentro estudiando JS, HTML, CSS, BOOTSTRAP y reactJs.</h3>
 
 - 📫 Puedes contactarme a mi mail: **maxivaz55@gmail.com**
 
