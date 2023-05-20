@@ -1,5 +1,9 @@
 <h1 align="center">Hola 👋, Mi nombre es Maximo</h1>
-<h3 align="center">Soy estudiante de Desarrollo en Aplicaciones Web</h3>
+<h3 align="center">
+✔Mi nombre es Maximo Garmasar Vazquez, vivo en Córdoba, Argentina. 
+Soy un estudiante de desarrollo de aplicaciones web. He terminado un curso sobre Java y ahora me encuentro estudiando JS, HTML, CSS, BOOTSTRAP y reactJs. 
+✔Soy una persona muy responsable y comprometida, siempre dispuesto a afrontar nuevos desafíos laborales y profesionales en busca de crecimiento y superación. Me gusta trabajar en equipo y creo que el compañerismo es el mejor aliado para que el objetivo de cualquier empresa salga adelante.
+✔Busco poder ser parte de una empresa que me de la oportunidad de seguir creciendo como Desarrollador,  ganar experiencia y poder realizar proyectos con un equipo de trabajo.</h3>
 
 - 📫 Puedes contactarme a mi mail: **maxivaz55@gmail.com**
 
