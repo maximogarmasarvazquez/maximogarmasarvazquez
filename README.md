@@ -1,7 +1,8 @@
 <h1 align="center">¡Hola a todos! 👋</h1>
 <h3 align="justify">
-✔Mi nombre es Maximo Garmasar Vazquez, vivo en Córdoba, Argentina. 
-Soy un estudiante de desarrollo de aplicaciones web y ahora me encuentro estudiando JS, HTML, CSS, BOOTSTRAP y reactJs, con estas habilidades realize los proyectos que veran aqui. </h3>
+Soy un estudiante de Desarrollo de Videojuegos, con una tecnicatura en Desarrollo web y Aplicaciones digitales.
+ Tengo una profunda pasión por los juegos y cómo se crean, por eso lo doy todo para garantizar la calidad de mi trabajo.
+ Mi objetivo es formar parte de un gran equipo y mejorar continuamente mis habilidades y conocimientos. Busco poder ser parte de una empresa que me de la oportunidad de seguir creciendo como Desarrollador,  ganar experiencia y poder realizar proyectos con un equipo de trabajo.</h3>
 
 - 📫 Puedes contactarme a mi mail: **maxivaz55@gmail.com**
 
