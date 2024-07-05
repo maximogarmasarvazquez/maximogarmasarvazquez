@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola a todos! 👋</h1>
 <h3 align="justify">
-Soy un Desarrollo web, recibido de técnico en Desarrollo web y Aplicaciones digitales en el Instituto Superior santa rosa de Calamuchita .
+Soy un Desarrollador web, recibido de técnico en Desarrollo web y Aplicaciones digitales en el Instituto Superior santa rosa de Calamuchita .
  Tengo una profunda pasión por el desarrollo de software y por eso lo doy todo para garantizar la calidad de mi trabajo.
  Mi objetivo es formar parte de un gran equipo y mejorar continuamente mis habilidades y conocimientos. Busco poder ser parte de una empresa que me de la oportunidad de seguir creciendo como Desarrollador,  ganar experiencia y poder realizar proyectos con un equipo de trabajo.</h3>
 
