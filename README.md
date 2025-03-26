@@ -1,7 +1,6 @@
 <h1 align="center">¡Hola a todos! 👋</h1>
 <h3 align="justify">
 Soy un Desarrollador web, recibido de técnico en Desarrollo web y Aplicaciones digitales en el Instituto Superior santa rosa de Calamuchita .
- Tengo una profunda pasión por el desarrollo de software y por eso lo doy todo para garantizar la calidad de mi trabajo.
  Mi objetivo es formar parte de un gran equipo y mejorar continuamente mis habilidades y conocimientos. Busco poder ser parte de una empresa que me de la oportunidad de seguir creciendo como Desarrollador,  ganar experiencia y poder realizar proyectos con un equipo de trabajo.</h3>
 
 - 📫 Puedes contactarme a mi mail: **maxivaz55@gmail.com**
@@ -10,6 +9,19 @@ Soy un Desarrollador web, recibido de técnico en Desarrollo web y Aplicaciones 
 <p align="left">
 <a href="https://linkedin.com/in/maximogarmasarvazquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximogarmasarvazquez" height="30" width="40" /></a>
 </p>
+
+<div>
+ <h1> mi CV JSON <h1/>
+  {
+  fullname: "Maximo Garmasar Vazquez",
+  email: "maxivaz55@gmail.com",
+  phone: "543546431626",
+  cv: "https://github.com/mirandaariel/estructura-talent-pool/blob/develop/people/arg/tech/arg-tech-v9l5gw939hlx0ww4c1lqtljp8f86v6dz.json"
+}
+</div>
+ 
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
