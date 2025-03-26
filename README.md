@@ -10,15 +10,15 @@ Soy un Desarrollador web, recibido de técnico en Desarrollo web y Aplicaciones 
 <a href="https://linkedin.com/in/maximogarmasarvazquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximogarmasarvazquez" height="30" width="40" /></a>
 </p>
 
-<div>
- <h1> mi CV JSON <h1/>
+<p>
+   mi CV JSON 
   {
   fullname: "Maximo Garmasar Vazquez",
   email: "maxivaz55@gmail.com",
   phone: "543546431626",
   cv: "https://github.com/mirandaariel/estructura-talent-pool/blob/develop/people/arg/tech/arg-tech-v9l5gw939hlx0ww4c1lqtljp8f86v6dz.json"
 }
-</div>
+</p>
  
 
 
