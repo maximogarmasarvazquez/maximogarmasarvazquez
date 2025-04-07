@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola a todos! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2CB&center=true&vCenter=true&width=435&lines=Soy+Maximo+Garmasar+Vazquez;Frontend+Developer+%F0%9F%96%A5%EF%B8%8F;Amante+del+Aprendizaje+Continuo+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2CB&center=true&vCenter=true&width=435&lines=Soy+Máximo+Garmasar+Vázquez;Frontend+Developer+%F0%9F%96%A5%EF%B8%8F;Amante+del+Aprendizaje+Continuo+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 <h3 align="justify">
@@ -14,7 +14,8 @@ Mi objetivo es formar parte de un gran equipo de trabajo que me permita crecer, 
 ### 📫 Contacto
 
 - Email: **maxivaz55@gmail.com**  
-- LinkedIn: [Maximo Garmasar Vazquez](https://www.linkedin.com/in/maximogarmasarvazquez)
+- LinkedIn: [Maximo Garmasar Vázquez](https://www.linkedin.com/in/maximogarmasarvazquez)
+- Portfolio: [page-portfolio-maxivaz.netlify.app](https://page-portfolio-maxivaz.netlify.app/)
 
 ---
 
@@ -36,14 +37,14 @@ Mi objetivo es formar parte de un gran equipo de trabajo que me permita crecer, 
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
@@ -61,4 +62,3 @@ Mi objetivo es formar parte de un gran equipo de trabajo que me permita crecer, 
 ---
 
 > 💬 *“La práctica diaria y el aprendizaje continuo son el camino para lograr proyectos extraordinarios.”*
-
